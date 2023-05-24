@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevCilla&theme=default"/>
+<p align="center">  
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevCilla&theme=default" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevCilla&theme=default" />  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevCilla&theme=default" />
+  <!--<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevCilla&theme=default" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevCilla&theme=default&utcOffset=8" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevCilla&theme=default"/>-->
 </p>
 <p align="center">
   <a href="https://github-profile-summary-cards.vercel.app/demo.html">Get your own cards now!!</a>
